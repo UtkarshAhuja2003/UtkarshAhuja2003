@@ -17,6 +17,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=UtkarshAhuja2003&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="UtkarshAhuja2003" /></p>
+<br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=UtkarshAhuja2003&show_icons=true&theme=dark&locale=en" alt="UtkarshAhuja2003" /></p>
 
