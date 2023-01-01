@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Ahuja</h1>
-<h3 align="center">A Developer who codes and codes all Day</h3>
+
 
 
 <h3 align="left">Connect with me:</h3>
