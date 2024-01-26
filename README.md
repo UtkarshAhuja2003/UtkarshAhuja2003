@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Ahuja</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=UtkarshAhuja2003&label=Profile%20views&color=0e75b6&style=flat" alt="UtkarshAhuja2003" /> </p>
 
-- 🔭 I’m currently working on [MSIT Alumni Association](https://github.com/UtkarshAhuja2003/alumni-association-test-website)
 - 🌱 I’m currently learning **Cloud Computing and Web Development**
 - 📝 I write articles on [https://medium.com/@ahujautkarsh](https://medium.com/@ahujautkarsh)
-- 📫 How to reach me **ahujautkarsh@ieee.org**
+- 📫 How to reach me **utkarsh@msit.in**
 
 
 <h3 align="left">Connect with me:</h3>
