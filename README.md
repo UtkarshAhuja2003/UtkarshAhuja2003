@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **C++ Development**
 
-- 👨‍💻 All of my projects are available at [ahujautkarsh.me](ahujautkarsh.me)
+- 👨‍💻 All of my projects are available at [ahujautkarsh.me](https://ahujautkarsh.me)
 
-- 📝 I regularly write articles on [medium.com/@ahujautkarsh](medium.com/@ahujautkarsh)
+- 📝 I regularly write articles on [medium.com/@ahujautkarsh](https://medium.com/@ahujautkarsh)
 
 - 💬 Ask me about **C++, NextJS, Backend Development, Cloud Computing**
 
