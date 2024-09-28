@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/utkarshahuja03" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshahuja03?logo=twitter&style=for-the-badge" alt="utkarshahuja03" /></a> </p>
 
-- 🌱 I’m currently learning **C++ Development**
 
 - 👨‍💻 All of my projects are available at [ahujautkarsh.me](https://ahujautkarsh.me)
 
